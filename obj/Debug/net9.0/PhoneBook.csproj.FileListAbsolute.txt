@@ -1,0 +1,14 @@
+/Users/uchennajohn/Desktop/FlashFid/PhoneBook/bin/Debug/net9.0/PhoneBook
+/Users/uchennajohn/Desktop/FlashFid/PhoneBook/bin/Debug/net9.0/PhoneBook.deps.json
+/Users/uchennajohn/Desktop/FlashFid/PhoneBook/bin/Debug/net9.0/PhoneBook.runtimeconfig.json
+/Users/uchennajohn/Desktop/FlashFid/PhoneBook/bin/Debug/net9.0/PhoneBook.dll
+/Users/uchennajohn/Desktop/FlashFid/PhoneBook/bin/Debug/net9.0/PhoneBook.pdb
+/Users/uchennajohn/Desktop/FlashFid/PhoneBook/obj/Debug/net9.0/PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uchennajohn/Desktop/FlashFid/PhoneBook/obj/Debug/net9.0/PhoneBook.AssemblyInfoInputs.cache
+/Users/uchennajohn/Desktop/FlashFid/PhoneBook/obj/Debug/net9.0/PhoneBook.AssemblyInfo.cs
+/Users/uchennajohn/Desktop/FlashFid/PhoneBook/obj/Debug/net9.0/PhoneBook.csproj.CoreCompileInputs.cache
+/Users/uchennajohn/Desktop/FlashFid/PhoneBook/obj/Debug/net9.0/PhoneBook.dll
+/Users/uchennajohn/Desktop/FlashFid/PhoneBook/obj/Debug/net9.0/refint/PhoneBook.dll
+/Users/uchennajohn/Desktop/FlashFid/PhoneBook/obj/Debug/net9.0/PhoneBook.pdb
+/Users/uchennajohn/Desktop/FlashFid/PhoneBook/obj/Debug/net9.0/PhoneBook.genruntimeconfig.cache
+/Users/uchennajohn/Desktop/FlashFid/PhoneBook/obj/Debug/net9.0/ref/PhoneBook.dll
