@@ -83,7 +83,7 @@ namespace PhoneBookApp.Helpers
                 Address = newAddress
             });
 
-            Console.WriteLine(updated ? "✅ Contact updated!" : "Contact not found.");
+            Console.WriteLine(updated ? " Contact updated!" : "Contact not found.");
         }
 
         public static void DeleteContact(PhoneBook phoneBook)
@@ -91,7 +91,7 @@ namespace PhoneBookApp.Helpers
             Console.Write("Enter Name of contact to delete: ");
             string name = Console.ReadLine() ?? "";
             bool deleted = phoneBook.DeleteContact(name);
-            Console.WriteLine(deleted ? "✅ Contact deleted!" : "Contact not found.");
+            Console.WriteLine(deleted ? "Contact deleted!" : "Contact not found.");
         }
 
         public static void SearchContact(PhoneBook phoneBook)

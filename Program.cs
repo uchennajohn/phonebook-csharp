@@ -14,7 +14,7 @@ class Program
             Console.WriteLine("\n--- Phone Book Menu ---");
             Console.WriteLine("1. Add Contact");
             Console.WriteLine("2. View All Contacts");
-            Console.WriteLine("3. View Single Contact");  // 👈 new option
+            Console.WriteLine("3. View Single Contact"); 
             Console.WriteLine("4. Update Contact");
             Console.WriteLine("5. Delete Contact");
             Console.WriteLine("6. Search Contact");
